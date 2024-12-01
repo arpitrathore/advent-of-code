@@ -1,0 +1,8 @@
+.vscode/
+.idea/
+
+*.lock
+
+# Advent of code input file
+aoc.txt
+
